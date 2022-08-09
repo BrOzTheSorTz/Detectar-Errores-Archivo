@@ -1,0 +1,6 @@
+July 31 02:25:52 mycomputername system[41921]: WARN Failed to start CPU thread[39016]
+July 31 02:36:44 mycomputername NetworkManager[90289]: WARN Failed to start CPU thread[3901
+July 31 05:59:27 mycomputername utility[74219]: WARN Failed to start CPU thread[39016]
+July 31 15:51:37 mycomputername kernel[79314]: WARN Failed to start CPU thread[39016]
+July 31 17:13:27 mycomputername system[77845]: WARN Failed to start CPU thread[39016]
+July 31 23:29:25 mycomputername utility[22941]: WARN Failed to start CPU thread[39016]
